@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">How_is_the_weather</string>
+    <string name="drawer_opened">drawer_opened</string>
+    <string name="drawer_closed">drawer_closed</string>
+</resources>
